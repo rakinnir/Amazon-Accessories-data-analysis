@@ -1,11 +1,12 @@
 # Amazon Accessories Data Analysis
 
-### Project Process
+## Project Process
 
 ![Project-Process-Diagram](images/Process%20diagram.png)
 
+---
 
-### Technologies Used:
+## Technologies Used:
 - **Python**
 - **SQL**
 - **Microsoft SQL Server**
@@ -13,7 +14,7 @@
 
 ---
 
-### Analysis:
+## Analysis:
 1. **KPIs & Key Metrics:**
    - Statistics of **current** and **original price**
    - **Sales volume**
@@ -29,7 +30,9 @@
 
 5. **Distribution of Star Ratings**
 
----
+--- 
 
 ### Final Product:
 - An **interactive dashboard** visualizing key insights and metrics
+
+![Dashboard](images/Dashboard)
