@@ -4,7 +4,6 @@
 
 ![Project-Process-Diagram](images/Process%20diagram.png)
 
----
 
 ## Technologies Used:
 - **Python**
@@ -12,7 +11,6 @@
 - **Microsoft SQL Server**
 - **Excel** (Power Query, Pivot Tables)
 
----
 
 ## Analysis:
 1. **KPIs & Key Metrics:**
@@ -30,9 +28,8 @@
 
 5. **Distribution of Star Ratings**
 
---- 
 
-### Final Product:
+## Final Product:
 - An **interactive dashboard** visualizing key insights and metrics
 
 ![Dashboard](images/Dashboard)
